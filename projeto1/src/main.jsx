@@ -1,7 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Post from './App.jsx'
-import './index.css'
+import { App } from './aa'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
